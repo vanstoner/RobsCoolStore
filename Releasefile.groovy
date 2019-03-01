@@ -5,7 +5,6 @@
 xlr {
   template('Deploy') {
     folder('BT/technical')
-    scheduledStartDate Date.parse("yyyy-MM-dd'T'HH:mm:ssZ", '2019-03-01T09:00:00+0000')
     phases {
       phase('Deploy') {
         color '#0099CC'
