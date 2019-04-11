@@ -7,7 +7,7 @@ xlr {
     folder('BT')
     scheduledStartDate Date.parse("yyyy-MM-dd'T'HH:mm:ssZ", '2019-04-11T09:00:00+0100')
     phases {
-      phase('New Phase') {
+      phase('Dev') {
         
       }
     }
